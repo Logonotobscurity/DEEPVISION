@@ -1,0 +1,15 @@
+model
+model.tgz
+*.pyc
+runtime
+build/build/*
+build/dist/*
+build/runtime_arch
+build/*
+*node_modules/*
+test/node_modules/*
+*.tgz
+.DS_Store
+docker/db
+volumes
+src/yolov7_reid/src/models/mgn_R50-ibn.onnx

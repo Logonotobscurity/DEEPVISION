@@ -293,7 +293,6 @@ sharpai-cli <application name> start
 - Behavior analysis model    
 - Transformer model  
 - Contrastive learning  
-- [Click to join sharpai slack channel for commercial support](https://sharpai-invite-automation.herokuapp.com/)
 
 # FAQ
 
